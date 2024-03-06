@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I graduated from Beijing University of Posts and Telecommunications in 2019 with a Ph.D. degree in Computer Science and Technology.I have been engaged in research and applications of cutting-edge algorithms in big data and artificial intelligence.
+
 I am in charge of one Zhejiang Provincial Natural Science Foundation project and one Zhejiang Agriculture and Forestry University Scientific Development Fund project.
+
 I have published more than 20 papers as the first author or corresponding author in top international journals and conferences, including IEEE Transactions on Neural Networks and Learning Systems, Knowledge-based Systems, Environmental Science & Technology, Briefings in Bioinformatics, World Wide Web, Neurocomputing, Multimedia Tools and Applications, Journal of Electronics, Journal of Communications, Journal of Chinese Information Processing, as well as CCF A and B class conferences such as AAAI, ICMR, IJCNN. I have applied for more than 20 invention patents, with more than 10 granted invention patents.
+
 I have co-supervised several master's students from Beijing University of Posts and Telecommunications, who are now working in well-known domestic Internet companies and enterprises such as ByteDance, Alibaba, and Tencent. Currently, I am looking for talented and enthusiastic students to join our team. All students will be arranged to have joint training with Beijing University of Posts and Telecommunications or Hong Kong University of Science and Technology, participate in related research projects, and those with outstanding research achievements can be recommended to prestigious universities for Ph.D. studies.
 
-We plan to enroll three outstanding master's students majoring in electronic information, agricultural engineering, and information technology.
-We are looking for candidates who are interested in scientific research, proficient in 1-2 programming languages, good at critical thinking, hardworking, and eager to learn. Priority will be given to those who have a passion for algorithms, clear logical thinking, and solid experience in machine learning and deep learning model development, debugging, and optimization.
 
 
 # 🔥 News
