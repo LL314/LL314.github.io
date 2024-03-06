@@ -9,7 +9,7 @@
 title                    : "Liu Tongcun(刘同存)"
 description              : "PhD, Master's supervisor
 College of Mathematics and Computer Science, Zhejiang Agricultural and Forestry University "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "LL314.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Liu Tongcun"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "College of Mathematics and Computer Science, Zhejiang Agricultural and Forestry University"
+  location         : "HangZhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://https://scholar.google.com/citations?user=ZTLz900AAAAJ&hl=zh-CN"
+  email            : "tongcun.liu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
