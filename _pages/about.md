@@ -53,9 +53,10 @@ I have co-supervised several master's students from Beijing University of Posts 
 - Liao Jianxin, **Liu Tongcun** *, Liu Meilian, Wang Jingyu, Wang Yulong, Sun Haifeng. Multi-Context Integrated Deep Neural Network Model for Next Location Prediction. IEEE Access, 2018, 6: 21980–21990. (SCI)
 
   
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Conference Papers
+- Gao Lei, Wang Yulong*, **Liu Tongcun** *, Wang Jingyu, Zhang Lei, Liao Jianxin. Question-Dirven Span Labeling model for Aspect-Opinion pair Extraction, AAAI’2021, online, 2021,12875-12883.（CCF A）
+- Lou Siyuan, Wang Yulong, **Liu Tongcun** *, Liao Jianxin. UMDSF:Unified Model With Dynamic-Static Features for Personalized Recommendation, IJCNN’2021,online,2021,1-8. (CCF C)
+- **Liu Tongcun**, Liao Jianxin*, Wu Zhigen, Wang Yulong, Wang Jingyu*. A Geographical-Temporal Awareness Hierarchical Attention Network for Next Point-of-Interest Recommendation,ICMR’2019, Ottawa, Canada: ACM, 2019, 7-15. (CCF B)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
