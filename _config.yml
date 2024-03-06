@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Liu Tongcun(刘同存)"
-description              : "PhD, Master's supervisor
-College of Mathematics and Computer Science, Zhejiang Agricultural and Forestry University "
+description              : " College of Mathematics and Computer Science, Zhejiang Agricultural and Forestry University "
 repository               : "LL314.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Liu Tongcun"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "College of Mathematics and Computer Science, Zhejiang Agricultural and Forestry University"
+  bio              : "PhD, Master's supervisor"
   location         : "HangZhou, China"
   employer         :
   pubmed           : 
