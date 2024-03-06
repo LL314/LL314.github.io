@@ -28,14 +28,17 @@ I have co-supervised several master's students from Beijing University of Posts 
 
 
 # 🔥 Research Direction
-- 🎉🎉 Recommended Systems and User Behavior Modeling
-- 🎉🎉 Spatial-temporal big data analysis and modeling
-- 🎉🎉 Bioinformatics, Marine Big Data, Natural Language Processing, Computer Vision
+- 🎉 Recommended Systems and User Behavior Modeling
+- 🎉 Spatial-temporal big data analysis and modeling
+- 🎉 Bioinformatics, Marine Big Data, Natural Language Processing, Computer Vision
 
 # 📝 Journal articles 
 
 - Zhicheng Liu，Yulong Wang*, **Tongcun Liu***, Lei Zhang, Wei Li, Jianxin Liao, Ding He. Semantic-enhanced Contrastive Learning for Session-based Recommendation.Knowledge-based System 2023. (一区Top期刊，IF=8.8)
-
+- Wenzhao Liang， **Tongcun Liu**, Yuntao Wang, Jiu Jimmy Jiao, Jianping Gan, Ding He*. Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters.Science of The Total Environment 2023. (一区Top期刊，IF=9.8)
+- Yuanbi Yi，**Tongcun Liu** *, Julian Merder,Chen He, Hongyan Bao, Penghui Li, Si-Liang Li,Quan Shi, Ding He*. Unraveling the Linkages between Molecular Abundance and Stable Carbon Isotope Ratio in Dissolved Organic Matter using Machine Learning.Environmental Science & Technology 2023 (一区Top期刊，IF=11.357)
+- Hailin Feng, Dongdong Jin, Jian Li, Yaner Li, Quan Zou, **Tongcun Liu** *. Matrix reconstruction with reliable neighbors for predicting potential MiRNA–disease associations.Briefings in Bioinformatics 2023 (Top期刊，IF=13.994)
+- **Tongcun Liu** *, Siyuan Lou, Jianxin Liao, Hailin Feng*. Dynamic and Static Representation Learning Network for Recommendation.IEEE Transactions on Neural Networks and Learning Systems 2022. (一区Top期刊，IF=14.255)
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
