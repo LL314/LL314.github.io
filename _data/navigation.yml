@@ -6,17 +6,17 @@ main:
   - title: "Research Direction"
     url: "/#-research direction"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Journal articles"
+    url: "/#-journal articles"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Conference Papers"
+    url: "/#-conference papers"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Invention Patents"
+    url: "/#-invention patents"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Ongoing Projects"
+    url: "/#-ongoing projects"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
