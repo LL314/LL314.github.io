@@ -32,7 +32,7 @@ I have co-supervised several master's students from Beijing University of Posts 
 - 🎉 Spatial-temporal big data analysis and modeling
 - 🎉 Bioinformatics, Marine Big Data, Natural Language Processing, Computer Vision
 
-# 📝 Journal articles 
+# 📝 Journal Articles 
 
 - Zhicheng Liu，Yulong Wang*, **Tongcun Liu** *, Lei Zhang, Wei Li, Jianxin Liao, Ding He. Semantic-enhanced Contrastive Learning for Session-based Recommendation.Knowledge-based System 2023. (一区Top期刊，IF=8.8)
 - Wenzhao Liang， **Tongcun Liu**, Yuntao Wang, Jiu Jimmy Jiao, Jianping Gan, Ding He*. Spatiotemporal-aware machine learning approaches for dissolved oxygen prediction in coastal waters.Science of The Total Environment 2023. (一区Top期刊，IF=9.8)
