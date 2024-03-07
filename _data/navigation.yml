@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Research Direction"
-    url: "/#-research direction"
+    url: "/#-research-direction"
 
   - title: "Journal articles"
-    url: "/#-journal articles"
+    url: "/#-journal-articles"
 
   - title: "Conference Papers"
-    url: "/#-conference papers"
+    url: "/#-conference-papers"
 
   - title: "Invention Patents"
-    url: "/#-invention patents"
+    url: "/#-invention-patents"
 
   - title: "Ongoing Projects"
-    url: "/#-ongoing projects"
+    url: "/#-ongoing-projects"
 
   # - title: "Internships"
   #   url: "/#-internships"
