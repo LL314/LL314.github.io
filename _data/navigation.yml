@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research Direction"
-    url: "/#-research-direction"
+  - title: "News"
+    url: "/#-news"
 
-  - title: "Journal Articles"
-    url: "/#-journal-articles"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "Conference Papers"
-    url: "/#-conference-papers"
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  - title: "Invention Patents"
-    url: "/#-invention-patents"
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "Ongoing Projects"
-    url: "/#-ongoing-projects"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
   - title: "Internships"
-   url: "/#-internships"
+    url: "/#-internships"
